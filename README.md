@@ -9,10 +9,11 @@
 <h2>Dataset and Description</h2>
 <b>Source: </b> insert data source here
 <br />
+<br />
 <b>Size: </b> insert data table size here
 <br />
-<b>Description: insert desc here
-</b>
+<br />
+<b>Description: </b> insert desc here
 <br />
 <br />
 <b>Key Features: </b>
@@ -23,12 +24,12 @@
 
 <h2>Data Cleaning and Pre-Processing</h2>
 -List steps here
-
+<br />
+<br />
 <h2>Exploratory Data Analysis</h2>
 what you did
-
-<h2>Modelling</h2>
-what you did
+<br />
+<br />
 
 <h2>Results and Insights</h2>
 imp insights from eda and modelling
