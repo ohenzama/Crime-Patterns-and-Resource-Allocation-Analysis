@@ -1,4 +1,3 @@
-<img width="998" height="795" alt="Crime Patterns Dashboard" src="https://github.com/user-attachments/assets/6665fa46-1a99-49c0-90e7-7502c08142c5" />
 # Crime-Patterns-and-Resource-Allocation-Analysis
 
 
