@@ -7,9 +7,10 @@
 - <b>Tableau:</b> Dashboarding / EDA
 
 <h2>Dataset and Description</h2>
+
 <b>Source: </b> 
 
-- [link](https://data.longbeach.gov/explore/?orderBy=title+ASC)
+[link](https://data.longbeach.gov/explore/?orderBy=title+ASC)
 
 
 <br />
