@@ -53,7 +53,7 @@
 <br />
 
 <h2>Exploratory Data Analysis</h2>
-- Created time series, heat maps, bar graphs, and pie charts to compare crime incident frequencies and types across different locations. 
+- Created time series, heat maps, bar graphs, and pie charts to compare crime incident frequencies and types across different locations and times. 
 <br />
 <br />
 
