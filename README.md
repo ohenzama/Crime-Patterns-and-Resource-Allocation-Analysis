@@ -9,7 +9,7 @@
 <h2>Dataset and Description</h2>
 <b>Source: </b> [link](https://data.longbeach.gov/explore/?orderBy=title+ASC)
 
-  - [E-commerce Consumer Archetyping + Dashboard](https://github.com/ohenzama/Project-1/tree/main)
+  - [E-commerce Consumer Archetyping + Dashboard](https://data.longbeach.gov/explore/?orderBy=title+ASC)
 
 
 <br />
