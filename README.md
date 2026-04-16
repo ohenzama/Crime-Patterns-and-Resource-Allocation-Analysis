@@ -8,11 +8,7 @@
 
 <h2>Dataset and Description</h2>
 
-<b>Source: </b> 
-
-[link](https://data.longbeach.gov/explore/?orderBy=title+ASC)
-
-
+[**Source**](https://data.longbeach.gov/explore/?orderBy=title+ASC)
 <br />
 <br />
 <b>Size: </b> (90216, 19)
