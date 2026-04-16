@@ -65,6 +65,7 @@
 
 
 <h2>Results and Recommendations</h2>
+
 - Every year the distribution of crime incidents follows roughly the same trend throughout the day, with crime incidents steadily decreasing from 1 am to 5 am, steadily increasing after 5 am, then peaking between hours 17 and 18, which would be between 5 and 6 PM.
 - the crime incident hourly trend for winter, summer, and spring closely follow each other in quantity, while fall overall sees less hourly crime incidents
 
