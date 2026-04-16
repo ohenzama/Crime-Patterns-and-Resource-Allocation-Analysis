@@ -2,7 +2,7 @@
 
 
 <h2>Tools Used</h2>
-- <b>Python:</b> Data Cleaning, preliminary EDA 
+- <b>Python:</b> Data Cleaning and Pre-processing, preliminary EDA 
 <br/>
 - <b>Tableau:</b> Dashboarding / EDA
 
