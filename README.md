@@ -7,7 +7,8 @@
 - <b>Tableau:</b> Dashboarding / EDA
 
 <h2>Dataset and Description</h2>
-<b>Source: </b> [link](https://data.longbeach.gov/explore/dataset/lbpd-criminal-incident-data/information/?sort=-date_reported&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImxicGQtY3JpbWluYWwtaW5jaWRlbnQtZGF0YSIsIm9wdGlvbnMiOnsic29ydCI6Ii1kYXRlX3JlcG9ydGVkIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoiYmVhdCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMwNWMzZGUifV0sInhBeGlzIjoidWNyX2NvZGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiIiLCJzb3J0IjoiIn1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D)
+<b>Source: </b> 
+[SQL Project](https://data.longbeach.gov/explore/dataset/lbpd-criminal-incident-data/information/?sort=-date_reported&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6ImxicGQtY3JpbWluYWwtaW5jaWRlbnQtZGF0YSIsIm9wdGlvbnMiOnsic29ydCI6Ii1kYXRlX3JlcG9ydGVkIn19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoiYmVhdCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMwNWMzZGUifV0sInhBeGlzIjoidWNyX2NvZGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiIiLCJzb3J0IjoiIn1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D)
 <br />
 <br />
 <b>Size: </b> (90216, 19)
